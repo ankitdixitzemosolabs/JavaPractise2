@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="450f1880-97f0-4b56-ad4e-042c8d7fc830" name="Changes" comment="practising conditional statement">
+    <list default="true" id="450f1880-97f0-4b56-ad4e-042c8d7fc830" name="Changes" comment="practising string and array">
       <change afterPath="$PROJECT_DIR$/src/ArrayFun.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StringMehodsFun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657729768240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="practising string and array">
+      <created>1657792680609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657792680609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practising conditional statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="practising conditional statement" />
+    <MESSAGE value="practising string and array" />
+    <option name="LAST_COMMIT_MESSAGE" value="practising string and array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
